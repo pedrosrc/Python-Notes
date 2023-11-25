@@ -1,0 +1,2 @@
+beautifulsou4==4.12.2
+numpy==1.26.2
